@@ -9,6 +9,7 @@ export default class LoginPage {
     }
 
     private Elements = {
+        
         userInput: "Username",
         passwordInput: "Password",
         loginBtn: "button[color='primary']",
